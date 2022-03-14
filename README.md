@@ -8,3 +8,17 @@ El script extrae tambén las páginas donde están esas tablas y las une en un s
 Hecho a lo rápido, se podría optimizar todo. Podría dejar de funcionar en cualquier momento.
 Probado en Python 3.10.2
 Creado por https://t.me/gambinaceo
+
+Módulos necesarios:
+
+os
+sys
+gc
+ctypes
+subproces
+requests
+shutil
+PyMuPDF
+glob
+time
+datetime
