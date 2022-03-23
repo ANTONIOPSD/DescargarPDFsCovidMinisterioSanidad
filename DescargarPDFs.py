@@ -37,7 +37,7 @@ kernel32.SetConsoleMode(kernel32.GetStdHandle(-10), 128)
 # CAMBIAR ESTO CONFORME SE NECESITE
 numero_pdf_inicial = 1 # Número por el cual empezar a comprobar.
 numero_pdf_final = 1000 # Número del PDF hasta el que se quiere llegar (aunque no exista todavía)
-forzar_descarga = 0 # 0= Descargar solo entre las 7 de la mañana y las 10 de la noche | 1= Descargar sin esperar
+forzar_descarga = 1 # 0= Descargar solo entre las 7 de la mañana y las 10 de la noche | 1= Descargar sin esperar
 carpeta_principal = 'PDFs Actualizaciones Coronavirus Ministerio de Sanidad'
 carpeta_pdfs = 'PDFs'
 carpeta_pdfs_casos = 'PDFs Con Gravedad Casos'
