@@ -6,8 +6,8 @@ El script escanea también todos los PDFs y busca la tabla de casos por franja d
 El script extrae tambén las páginas donde están esas tablas y las une en un solo PDF.
 
 Hecho a lo rápido, se podría optimizar todo. Podría dejar de funcionar en cualquier momento.
-Probado en Python 3.10.2
-Creado por https://t.me/gambinaceo
+Probado en Python 3.10.2.
+Contacto: https://t.me/gambinaceo
 
 Módulos necesarios:
 
