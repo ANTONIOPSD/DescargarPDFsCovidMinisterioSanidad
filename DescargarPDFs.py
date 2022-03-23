@@ -18,13 +18,13 @@ import sys
 import gc
 import ctypes
 import subprocess
-import requests
+import requests #pip install requests
 from requests.structures import CaseInsensitiveDict
 import shutil
 import fitz # pip install PyMuPDF
 import glob
 import time  
-from datetime import datetime
+from datetime import datetime #pip install datetime
 #import threading -> Para futura descarga en paralelo, actualmente va de uno en uno.
 
 
